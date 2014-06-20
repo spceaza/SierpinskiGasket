@@ -1,0 +1,6 @@
+A program to draw Sierpinski gasket with chaos teory.
+
+Prerrequisites:
+- C++
+- OpenCV for C++
+- QT Creator (Optional)
